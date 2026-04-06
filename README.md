@@ -2,23 +2,22 @@
 
 ## Hi, I'm Kaíke Falcão 👋
 
-Full Stack Software Developer  
-Focused on building clean, maintainable, and scalable web applications.
+Software Engineer.
 
-### Tech Stack
-- **Backend:** PHP (Laravel, Yii), Node.js (NestJS)
-- **Frontend:** JavaScript, TypeScript, Vue.js, React
-- **Infrastructure & Tools:** Linux, Docker, RabbitMQ, Kafka
-- **Cloud:** AWS, GCP
+Experiência com PHP (Laravel) e Node.js (NestJS), construindo APIs e serviços usados em produção. Em transição para Java com Spring Boot, trabalhando com conceitos de DDD, microservices e event-driven.
 
-### Currently
-- Studying **Event-Driven Architecture, Observability, and DDD**
-- Building personal projects with **Rails (learning) and Vue.js**
+Prefiro código simples, legível e fácil de manter.
 
-### Social
-[LinkedIn](https://www.linkedin.com/in/kaikefalcao/) ·
-[Instagram](https://www.instagram.com/kaikelfalcao/) ·
-[X / Twitter](https://twitter.com/kaikelfalcao)
+### Stack
+- PHP (Laravel, Yii)
+- Node.js (NestJS)
+- Java (Spring Boot)
+- Docker, RabbitMQ, Kafka
 
----
-> “Sometimes even to live is an act of courage.” — Seneca
+### Hoje
+- Arquitetura orientada a eventos e observabilidade
+- DDD na prática
+- Ecossistema Java
+
+### Contato
+[LinkedIn](https://www.linkedin.com/in/kaikefalcao/)
