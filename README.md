@@ -1,23 +1,13 @@
-<img src="images/cover.png" alt="Kaíke Falcão">
+# Kaíke Falcão
 
-## Hi, I'm Kaíke Falcão 👋
+Backend engineer from Brazil. I build APIs and services that move money: invoicing, Pix, boletos, bank reconciliation and Open Finance integrations, running in production.
 
-Software Engineer.
+I like simple, readable code and systems that are easy to operate.
 
-Experiência com PHP (Laravel) e Node.js (NestJS), construindo APIs e serviços usados em produção. Em transição para Java com Spring Boot, trabalhando com conceitos de DDD, microservices e event-driven.
+**Stack:** PHP (Laravel, Yii) · TypeScript (Node.js, NestJS) · Go · PostgreSQL · Redis · Docker · RabbitMQ · Kafka · GCP · AWS
 
-Prefiro código simples, legível e fácil de manter.
+**Interested in:** event-driven architecture, sagas and idempotency, observability.
 
-### Stack
-- PHP (Laravel, Yii)
-- Node.js (NestJS)
-- Java (Spring Boot)
-- Docker, RabbitMQ, Kafka
+**Currently:** postgraduate in Software Architecture at FIAP.
 
-### Hoje
-- Arquitetura orientada a eventos e observabilidade
-- DDD na prática
-- Ecossistema Java
-
-### Contato
-[LinkedIn](https://www.linkedin.com/in/kaikefalcao/)
+[LinkedIn](https://www.linkedin.com/in/kaikefalcao/) · kaikelfalcao@gmail.com
